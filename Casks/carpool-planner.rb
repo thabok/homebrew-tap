@@ -1,6 +1,6 @@
 cask "carpool-planner" do
-  version "1.0.4"
-  sha256 "a263faa4d1dce065096c5d05e50a00b42e453857f80f399c30638bfd533da6e5"
+  version "1.0.5"
+  sha256 "64de3609c26dc3cacda733a26a56f1b9bfd4b507235c5b2a714e73e0d4d1e094"
 
   url "https://github.com/thabok/mycartime/releases/download/v#{version}/CarpoolPlanner_#{version}_aarch64.dmg"
   name "Carpool Planner"
